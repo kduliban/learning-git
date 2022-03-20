@@ -10,4 +10,4 @@ for name in names:
     hasło = hasło.update ({name})
 
 print(name_dict)
-print("do zadania"
+print("do zadania")
