@@ -9,4 +9,5 @@ for name in names:
     hasło = name_dict.setdefault (name[0], set())
     hasło = hasło.update ({name})
 
-print (name_dict)
+print(name_dict)
+print("do zadania"
