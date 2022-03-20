@@ -8,6 +8,6 @@ for name in names:
     name_dict.setdefault(name[0],set())
     hasło = name_dict.setdefault (name[0], set())
     hasło = hasło.update ({name})
-
+count = len(names)
 print(name_dict)
 print("do zadania")
